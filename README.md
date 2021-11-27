@@ -1,1 +1,2 @@
-# DataStruct_ADT
+## DataStruct Review
+store basic datastruct's ADT here.
