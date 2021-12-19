@@ -3,6 +3,7 @@
 ##### Progress:
 
  - Linear List 
+ - Linked List
 
 
 
