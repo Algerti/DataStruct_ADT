@@ -2,8 +2,8 @@
 // Created by OrangeTien on 2021/11/28.
 //
 
-#ifndef DATASTRUCT_LEARN_REPO_LINEAR_LIST_H
-#define DATASTRUCT_LEARN_REPO_LINEAR_LIST_H
+#ifndef LINEAR_LIST_H
+#define LINEAR_LIST_H
 
 #define MAXSIZE 1024
 
@@ -35,4 +35,4 @@ error_t Remove(linear_list_t *L, position i);		    /* remove */
 position    Locate(linear_list_t *L, elem_t x);/* locate the pos.*/
 void    PrintList(linear_list_t* L); /* print the list */
 
-#endif //DATASTRUCT_LEARN_REPO_LINEAR_LIST_H
+#endif //LINEAR_LIST_H

@@ -2,8 +2,8 @@
 // Created by OrangeTien on 2021/12/19.
 //
 
-#ifndef DATASTRUCT_LEARN_REPO_LINKED_LIST_H
-#define DATASTRUCT_LEARN_REPO_LINKED_LIST_H
+#ifndef LINKED_LIST_H
+#define LINKED_LIST_H
 
 typedef int ElementType;
 struct Node;
@@ -28,4 +28,4 @@ struct Node{
 };
 
 
-#endif //DATASTRUCT_LEARN_REPO_LINKED_LIST_H
+#endif //LINKED_LIST_H
