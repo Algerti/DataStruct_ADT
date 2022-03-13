@@ -1,8 +1,10 @@
 file(REMOVE_RECURSE
-  "BST"
+  "BST.exe"
+  "BST.exe.manifest"
   "BST.pdb"
-  "CMakeFiles/BST.dir/binary_search_tree/bst.c.o"
-  "CMakeFiles/BST.dir/binary_search_tree/here_main.c.o"
+  "CMakeFiles/BST.dir/binary_search_tree/bst.c.obj"
+  "CMakeFiles/BST.dir/binary_search_tree/here_main.c.obj"
+  "libBST.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

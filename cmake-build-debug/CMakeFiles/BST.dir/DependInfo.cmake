@@ -4,10 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/Users/alger/Desktop/Github仓库/DataStruct_ADT/binary search tree/bst.c" "/Users/alger/Desktop/Github仓库/DataStruct_ADT/cmake-build-debug/CMakeFiles/BST.dir/binary_search_tree/bst.c.o"
-  "/Users/alger/Desktop/Github仓库/DataStruct_ADT/binary search tree/here_main.c" "/Users/alger/Desktop/Github仓库/DataStruct_ADT/cmake-build-debug/CMakeFiles/BST.dir/binary_search_tree/here_main.c.o"
+  "B:/Code_Interpreter_IDE/DataStruct_ADT/binary search tree/bst.c" "B:/Code_Interpreter_IDE/DataStruct_ADT/cmake-build-debug/CMakeFiles/BST.dir/binary_search_tree/bst.c.obj"
+  "B:/Code_Interpreter_IDE/DataStruct_ADT/binary search tree/here_main.c" "B:/Code_Interpreter_IDE/DataStruct_ADT/cmake-build-debug/CMakeFiles/BST.dir/binary_search_tree/here_main.c.obj"
   )
-set(CMAKE_C_COMPILER_ID "AppleClang")
+set(CMAKE_C_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_C_TARGET_INCLUDE_PATH

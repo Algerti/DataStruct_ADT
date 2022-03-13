@@ -1,4 +1,10 @@
-/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/alger/Desktop/Github仓库/DataStruct_ADT
+"B:\Code_Interpreter_IDE\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" B:\Code_Interpreter_IDE\DataStruct_ADT
+-- The C compiler identification is GNU 8.1.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: B:/Code_Interpreter_IDE/Mingw_here/mingw64/bin/gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: /Users/alger/Desktop/Github仓库/DataStruct_ADT/cmake-build-debug
+-- Build files have been written to: B:/Code_Interpreter_IDE/DataStruct_ADT/cmake-build-debug
